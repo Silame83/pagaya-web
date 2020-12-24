@@ -15,4 +15,4 @@
 - PORT: the listening PORT
 - API_HOST: the full url to call the API app
 
-These two variables need to be set 
+These two variables need to be set...
